@@ -42,7 +42,7 @@ A high-quality, responsive clone of the [CoinProfile](https://coinprofile.com/) 
 
 ## 📸 Preview
 
-> ✅ Live Demo: [https://design-experience.vercel.app](https://design-experience.vercel.app)
+> ✅ Live Demo: [https://design-experience-v1.vercel.app](https://design-experience-v1.vercel.app)
 
 ## ✨ Features
 
